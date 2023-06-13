@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\Andrico\\KERJA\\Telkomsigma\\ProBis Microsoft\\Microsoft Challenge\\BlazorApp\\BlazorApp.csproj": {}
+    "D:\\Documents\\Andrico\\KERJA\\Telkomsigma\\ProBis Microsoft\\Microsoft Challenge\\blazorapp\\BlazorApp.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\Andrico\\KERJA\\Telkomsigma\\ProBis Microsoft\\Microsoft Challenge\\BlazorApp\\BlazorApp.csproj": {
+    "D:\\Documents\\Andrico\\KERJA\\Telkomsigma\\ProBis Microsoft\\Microsoft Challenge\\blazorapp\\BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Andrico\\KERJA\\Telkomsigma\\ProBis Microsoft\\Microsoft Challenge\\BlazorApp\\BlazorApp.csproj",
+        "projectUniqueName": "D:\\Documents\\Andrico\\KERJA\\Telkomsigma\\ProBis Microsoft\\Microsoft Challenge\\blazorapp\\BlazorApp.csproj",
         "projectName": "BlazorApp",
-        "projectPath": "D:\\Documents\\Andrico\\KERJA\\Telkomsigma\\ProBis Microsoft\\Microsoft Challenge\\BlazorApp\\BlazorApp.csproj",
+        "projectPath": "D:\\Documents\\Andrico\\KERJA\\Telkomsigma\\ProBis Microsoft\\Microsoft Challenge\\blazorapp\\BlazorApp.csproj",
         "packagesPath": "C:\\Users\\SCC1202200986\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Andrico\\KERJA\\Telkomsigma\\ProBis Microsoft\\Microsoft Challenge\\BlazorApp\\obj\\",
+        "outputPath": "D:\\Documents\\Andrico\\KERJA\\Telkomsigma\\ProBis Microsoft\\Microsoft Challenge\\blazorapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SCC1202200986\\AppData\\Roaming\\NuGet\\NuGet.Config",

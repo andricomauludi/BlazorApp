@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eKX/JudxZnUootip/fDU86Rzs2Y+na5loFrdm67SxDKJc04XTUAo1kcdvsqgtunfPEMib/STS/ANQZKoIiwpRw==",
+  "dgSpecHash": "5dru0aDMmy3cv95zF3tGGaCZl9Pn8sZbZjD1d3JqX1mJfT3aWuL9A2eHaH3gL6HDLTjlTsjWmgIB8aJmpTmQ/Q==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\Andrico\\KERJA\\Telkomsigma\\ProBis Microsoft\\Microsoft Challenge\\BlazorApp\\BlazorApp.csproj",
+  "projectFilePath": "D:\\Documents\\Andrico\\KERJA\\Telkomsigma\\ProBis Microsoft\\Microsoft Challenge\\blazorapp\\BlazorApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SCC1202200986\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
     "C:\\Users\\SCC1202200986\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
